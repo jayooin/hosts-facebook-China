@@ -9,7 +9,7 @@
 ::1             localhost 
 fe80::1%lo0	localhost
 
-# Test Facebook Ligne 12 à 41
+# Test Facebook Ligne 12 à 42
 
 69.171.246.16 0-act.channel.facebook.com
 69.171.246.16 1-act.channel.facebook.com
@@ -20,6 +20,7 @@ fe80::1%lo0	localhost
 69.171.246.16 6-act.channel.facebook.com
 69.171.246.16 act.channel.facebook.com
 #173.252.100.20 apps.facebook.com
+198.87.182.144 fbcdn-profile-a.akamaihd.net
 #66.220.152.34 graph.facebook.com
 #69.171.247.38 api-read.facebook.com
 173.252.110.20 pixel.facebook.com
@@ -44,7 +45,7 @@ fe80::1%lo0	localhost
 
 
 
-#Google Services START  Ligne 46 à 561
+#Google Services START  Ligne 47 à 562
 
 173.194.75.18	0.docs.google.com
 173.194.75.18	0.drive.google.com

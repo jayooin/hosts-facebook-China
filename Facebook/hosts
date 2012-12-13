@@ -1,0 +1,45 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+
+
+
+#Facebook
+
+69.171.246.16 0-act.channel.facebook.com
+69.171.246.16 1-act.channel.facebook.com
+69.171.246.16 2-act.channel.facebook.com
+69.171.246.16 3-act.channel.facebook.com
+69.171.246.16 4-act.channel.facebook.com
+69.171.246.16 5-act.channel.facebook.com
+69.171.246.16 6-act.channel.facebook.com
+69.171.246.16 act.channel.facebook.com
+#173.252.100.20 apps.facebook.com
+198.87.182.144 fbcdn-profile-a.akamaihd.net
+#66.220.152.34 graph.facebook.com
+#69.171.247.38 api-read.facebook.com
+173.252.110.20 pixel.facebook.com
+23.11.114.110 s-static.ak.facebook.com
+
+#2.21.63.139 connect.facebook.net
+#69.171.243.17 hphotos-ash4.fbcdn.net
+#66.220.151.28 hphotos-snc6.fbcdn.net
+#69.171.227.22 hphotos-snc7.fbcdn.net
+2a03:2880:2110:3f01:face:b00c facebook.com #66.220.158.16 facebook.com
+2.20.237.177 s-static.ak.fbcdn.net
+#69.171.237.20 star.facebook.com
+#124.40.42.23 static.ak.facebook.com
+#69.171.234.25 upload.facebook.com
+#69.63.185.54 vpn.tfbnw.net
+#124.40.41.25 vthumb.ak.fbcdn.net
+#66.220.151.30 vupload.facebook.com
+69.171.227.77 vupload2.facebook.com
+#173.252.101.16 connect.facebook.com
+66.220.158.16 www.facebook.com
