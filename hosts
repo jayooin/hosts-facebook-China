@@ -9,7 +9,8 @@
 ::1             localhost 
 fe80::1%lo0	localhost
 
-# Test Facebook Ligne 12 à 42
+# Test Facebook Ligne 12 à 48
+
 
 69.171.246.16 0-act.channel.facebook.com
 69.171.246.16 1-act.channel.facebook.com
@@ -20,11 +21,14 @@ fe80::1%lo0	localhost
 69.171.246.16 6-act.channel.facebook.com
 69.171.246.16 act.channel.facebook.com
 #173.252.100.20 apps.facebook.com
-198.87.182.144 fbcdn-profile-a.akamaihd.net
+198.87.182.144 fbcdn-profile-a.akamaihd.net#23.67.244.185
+65.121.209.80 fbcdn-video-a.akamaihd.net
+204.183.124.185 fbexternal-a.akamaihd.net
+63.233.110.26 fbstatic-a.akamaihd.net
 #66.220.152.34 graph.facebook.com
 #69.171.247.38 api-read.facebook.com
-173.252.110.20 pixel.facebook.com
-23.11.114.110 s-static.ak.facebook.com
+173.252.110.20 pixel.facebook.com #69.171.228.24 
+23.11.114.110 s-static.ak.facebook.com #184.50.242.110
 
 #2.21.63.139 connect.facebook.net
 #69.171.243.17 hphotos-ash4.fbcdn.net
@@ -34,18 +38,18 @@ fe80::1%lo0	localhost
 2.20.237.177 s-static.ak.fbcdn.net
 #69.171.237.20 star.facebook.com
 #124.40.42.23 static.ak.facebook.com
-#69.171.234.25 upload.facebook.com
+66.220.152.19 upload.facebook.com ##69.171.234.25
 #69.63.185.54 vpn.tfbnw.net
 #124.40.41.25 vthumb.ak.fbcdn.net
 #66.220.151.30 vupload.facebook.com
 69.171.227.77 vupload2.facebook.com
 #173.252.101.16 connect.facebook.com
-66.220.158.16 www.facebook.com
+66.220.152.19 www.facebook.com
 
 
 
 
-#Google Services START  Ligne 47 à 562
+#Google Services START  Ligne 52 à 569
 
 173.194.75.18	0.docs.google.com
 173.194.75.18	0.drive.google.com
@@ -1299,3 +1303,8 @@ fe80::1%lo0	localhost
 203.208.46.29 o-o.preferred.sn-2gb7ln7r.v24.lscache8.c.youtube.com
 
 #Youtube End
+
+#VMWare Oracle lab
+
+192.168.152.3  vmware.labo-oracle.com
+
