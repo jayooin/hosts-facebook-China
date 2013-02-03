@@ -24,6 +24,7 @@ fe80::1%lo0	localhost
 #173.252.100.20 apps.facebook.com
 198.87.182.144 fbcdn-profile-a.akamaihd.net#23.67.244.185
 65.121.209.80 fbcdn-video-a.akamaihd.net
+209.18.46.161 video.ak.fbcdn.net
 204.183.124.185 fbexternal-a.akamaihd.net
 63.233.110.26 fbstatic-a.akamaihd.net
 #66.220.152.34 graph.facebook.com
