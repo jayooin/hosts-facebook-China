@@ -13,37 +13,18 @@ fe80::1%lo0	localhost
 
 #Facebook
 
-69.171.246.16 0-act.channel.facebook.com
-69.171.246.16 1-act.channel.facebook.com
-69.171.246.16 2-act.channel.facebook.com
-69.171.246.16 3-act.channel.facebook.com
-69.171.246.16 4-act.channel.facebook.com
-69.171.246.16 5-act.channel.facebook.com
-69.171.246.16 6-act.channel.facebook.com
-69.171.246.16 act.channel.facebook.com
-#173.252.100.20 apps.facebook.com
-198.87.182.144 fbcdn-profile-a.akamaihd.net#23.67.244.185
-65.121.209.80 fbcdn-video-a.akamaihd.net
-209.18.46.152 video.ak.fbcdn.net
-204.183.124.185 fbexternal-a.akamaihd.net
-63.233.110.26 fbstatic-a.akamaihd.net
-#66.220.152.34 graph.facebook.com
-#69.171.247.38 api-read.facebook.com
-173.252.110.20 pixel.facebook.com #69.171.228.24 
-23.11.114.110 s-static.ak.facebook.com #184.50.242.110
-
-#2.21.63.139 connect.facebook.net
-#69.171.243.17 hphotos-ash4.fbcdn.net
-#66.220.151.28 hphotos-snc6.fbcdn.net
-#69.171.227.22 hphotos-snc7.fbcdn.net
-2a03:2880:2110:3f01:face:b00c facebook.com #66.220.158.16 facebook.com
-2.20.237.177 s-static.ak.fbcdn.net
-#69.171.237.20 star.facebook.com
-#124.40.42.23 static.ak.facebook.com
-66.220.152.19 upload.facebook.com ##69.171.234.25
-#69.63.185.54 vpn.tfbnw.net
-#124.40.41.25 vthumb.ak.fbcdn.net
-#66.220.151.30 vupload.facebook.com
-69.171.227.77 vupload2.facebook.com
-#173.252.101.16 connect.facebook.com
-173.252.110.27 www.facebook.com
+173.252.112.28  api-read.facebook.com
+173.252.112.28	api.facebook.com
+173.252.112.28	apps.facebook.com
+173.252.112.28	developers.facebook.com
+173.252.112.28	facebook.com
+173.252.112.28	graph.facebook.com
+173.252.112.28	orcart.facebook.com
+173.252.112.28	www.facebook.com
+173.252.112.28	zh-CN.facebook.com
+173.252.100.25	m.facebook.com
+61.213.189.98	b.static.ak.facebook.com
+61.213.189.120	b.static.ak.fbcdn.net
+66.220.145.63	bigzipfiles.facebook.com
+61.213.189.113	creative.ak.fbcdn.net
+66.152.103.74	external.ak.fbcdn.net
